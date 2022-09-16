@@ -1,4 +1,4 @@
-# my-reading-books
+# my-reading-books-and-videos
 
 记录我正在读的书、视频
 
