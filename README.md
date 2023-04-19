@@ -29,6 +29,7 @@
 | Roald Dahl - The Giraffe and the Pelly and Me | 2023.4.16 - 2023.4.16 | Fairy Tales | 各自发挥特长的动物们的故事
 | Roald Dahl - Esio Trot | 2023.4.17 - 2023.4.17 | Fairy Tales | 老头巧计赚佳人
 | Roald Dahl - George's Marvelous Medicine | 2023.4.17 - 2023.4.18 | Fairy Tales | 阿这真的是给小孩子看的吗..给老人随便吃药，最后把老人弄消失掉，家里人还认为这算解决掉一个妨碍
+| Roald Dahl - Danny the Champion of the World | 2023.4.18 - ? | Fairy Tales | 
 
 
 
