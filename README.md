@@ -30,7 +30,7 @@
 | Roald Dahl - Esio Trot | 2023.4.17 - 2023.4.17 | Fairy Tales | 老头巧计赚佳人
 | Roald Dahl - George's Marvelous Medicine | 2023.4.17 - 2023.4.18 | Fairy Tales | 阿这真的是给小孩子看的吗..给老人随便吃药，最后把老人弄消失掉，家里人还认为这算解决掉一个妨碍
 | Roald Dahl - Danny the Champion of the World | 2023.4.18 - 2023.4.21 | Fairy Tales | 很温馨的父子关系，偷鸡剧情很棒
-| Little Prince | 2023.4.21 - 2023.4 | Fairy Tales | 知名小说，一些内容很难懂
+| Little Prince | 2023.4.21 - 2023.4.22 | Fairy Tales | 关于爱情的小说，一些内容比较晦涩，原文为法语，翻译为英语后，一些描述的句式也不太常见（以我对英语的认知来说）
 
 
 
