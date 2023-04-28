@@ -33,4 +33,5 @@
 | Little Prince | 2023.4.21 - 2023.4.22 | Fairy Tales | 关于爱情的小说，一些内容比较晦涩，原文为法语，翻译为英语后，一些描述的句式也不太常见（以我对英语的认知来说）
 | Goosebumps - Stay out of the Basement                               | 2023.4.24 - 2023.4.25 | 恐怖 | "我的植物人父亲"                        |
 | Goosebumps - Let's Get Invisible     | 2023.4.25 - 2023.4.27      | 恐怖、奇幻、青少年 | 可以隐形的镜子，作死青年们的故事+1      
-| Goosebumps - The Curse of the Mummy    | 2023.4.27 - 2023.4      | 恐怖、奇幻、青少年 | 木乃伊  
+| Goosebumps - The Curse of the Mummy    | 2023.4.27 - 2023.4.28      | 恐怖、奇幻、青少年 | 木乃伊  
+
