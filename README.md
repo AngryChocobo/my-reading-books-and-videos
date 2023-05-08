@@ -32,3 +32,4 @@
 | Goosebumps - The Curse of the Mummy           | 2023.4.27 - 2023.4.28   | 恐怖         | 木乃伊                                                                                                                                                         |
 | Goosebumps - Monster Blood                    | 2023.5.4 - 2023.5.5     | 恐怖         | 主角没作死吃下恶魔之血是我没想到的                                                                                                                             |
 | Goosebumps - The Ghost Next Door              | 2023.5.5 - 2023.5.5      | 恐怖         | Who is ghost? The answer is interesting.                                                                                                                                                           |
+| Goosebumps - Night of the Living Dummy            | 2023.5.8 - 2023.5      | 恐怖         | todo
