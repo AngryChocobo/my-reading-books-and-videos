@@ -35,4 +35,5 @@
 | Goosebumps - Monster Blood                    | 2023.5.4 - 2023.5.5     | 恐怖         | 主角没作死吃下恶魔之血是我没想到的                                                                                                                             |
 | Goosebumps - The Ghost Next Door              | 2023.5.5 - 2023.5.5      | 恐怖         | Who is ghost? The answer is interesting.                                                                                                                                                           |
 | Goosebumps - Night of the Living Dummy            | 2023.5.8 - 2023.5.10      | 恐怖         | Comparison and jealousy are thieves who steal happiness
-| Goosebumps - The Girl Who Cried Monster            | 2023.5.10 - 2023.5      | 恐怖         | todo
+| Goosebumps - The Girl Who Cried Monster            | 2023.5.10 - 2023.5.13      | 恐怖         | Who is ghost? The answer is interesting.Forgive my repeat but it is true.
+| Goosebumps -  Welcome to Camp Nightmare         | 2023.5.14 - 2023.5      | 恐怖         | reading
