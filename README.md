@@ -36,4 +36,4 @@
 | Goosebumps - The Ghost Next Door              | 2023.5.5 - 2023.5.5      | 恐怖         | Who is ghost? The answer is interesting.                                                                                                                                                           |
 | Goosebumps - Night of the Living Dummy            | 2023.5.8 - 2023.5.10      | 恐怖         | Comparison and jealousy are thieves who steal happiness
 | Goosebumps - The Girl Who Cried Monster            | 2023.5.10 - 2023.5.13      | 恐怖         | Who is ghost? The answer is interesting.Forgive my repeat but it is true.
-| Goosebumps -  Welcome to Camp Nightmare         | 2023.5.14 - 2023.5      | 恐怖         | reading
+| Goosebumps -  Welcome to Camp Nightmare         | 2023.5.14 - 2023.5.17      | 恐怖         | The story's end is unexcept but terrible bad.I think it has destory the total story.
