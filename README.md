@@ -39,6 +39,6 @@
 | Goosebumps -  Welcome to Camp Nightmare         | 2023.5.14 - 2023.5.17      | 恐怖         | The story's end is unexcept but terrible bad.I think it has destory the total story.
 | Goosebumps - The Haunted Mask         | 2023.5.19 - 2023.5      | 恐怖         | todo
 | Oliver Twist(Movie)  | 2023.5.21 - 2023.5.21      | Movie         | It was very hard to live in a dark age.Poor Nancy looks like a corpse that's come back to life again when she realize she must finish her life that full of liers and thieves.At last she had murdered by her lover.A pity girl. Ahtough the story have a happy ending but I have some doubts about whether a better life and fair will coming if Oliver is nobody.
-| Jane Eyre(精简版) | 2023.6.9 - ?? | novel |  todo 
+| Jane Eyre(精简版) | 2023.6.9 - 2023.6.13 | novel |  有人说是早期玛丽苏小说，但是我觉得还是三观比较正的
 | Coffee Talk | 2023.6.10 | Game | Good. I added Coffee Talk 2 into my wishlist.
 | Firewok | 2023.6.10 | Game | A horror game made by Chinese developer.It is very lucky for a unhappy little girl to have a kind teacher .It is very unlucky for a kind wife to have harsh parents in law after her husband died.
