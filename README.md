@@ -44,4 +44,4 @@
 | Firewok | 2023.6.10 | Game | A horror game made by Chinese developer.It is very lucky for a unhappy little girl to have a kind teacher .It is very unlucky for a kind wife to have harsh parents in law after her husband died.
 | Pinocchio | 2023.6.14 - 6.19 | novel | A famous fairy tale for children.
 | Phoenix Wright | 2023.6.17 - ? | Game | 大名鼎鼎的逆转裁判. I used to play it on my 3ds.
-| Secret Garden(精简版) | 2023.6.20 - ? | novel | TODO
+| Secret Garden(精简版) | 2023.6.20 - 6.20 | novel | A short but very warm story.
