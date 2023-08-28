@@ -46,3 +46,6 @@
 | Secret Garden(精简版) | 2023.6.20 - 6.20 | novel | A short but very warm story.
 | Treasure of Nadia | 2023.7  -2023.8.6 | Game | 黄油，我愿称其为RPGMaker作品的天花板，剧情非常不错，建模优秀
 | A Plague Tale inocence | 2023.8.8 - 2023.8.9 | Game | 鼠王弟弟加他悲惨的姐姐，鼠群比较震撼
+| VilageRhapsody | 2023.8 | Game | 国产黄油，内容简单，没太多特点，游戏时长不过4小时
+| The Deed | 2023.8 | Game | rpgmaker制作，算解谜游戏，使用不同的武器，通过嫁祸给不同的人来解锁成就，不看攻略很难实现
+| OutCore | 2023.8 | Game | 包含了很多梗的游戏，全成就困难
