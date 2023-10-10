@@ -49,5 +49,4 @@
 | VilageRhapsody | 2023.8 | Game | 国产黄油，内容简单，没太多特点，游戏时长不过4小时
 | The Deed | 2023.8 | Game | rpgmaker制作，算解谜游戏，使用不同的武器，通过嫁祸给不同的人来解锁成就，不看攻略很难实现
 | OutCore | 2023.8 | Game | 包含了很多梗的游戏，全成就困难
-| The Old Man and the Sea | 2023.10.7 - 2023.10.10 | Novel | "Compared to previous works, The Old Man and the Sea goes even further down the path of minimalism, with an average sentence length of less than 15 words, and a textual style that achieves a great deal of complexity and simplicity, and a return to the realm of simplicity."
-But I would like to say that this book has the longest sentence of all the books I have read.
+| The Old Man and the Sea | 2023.10.7 - 2023.10.10 | Novel | "Compared to previous works, The Old Man and the Sea goes even further down the path of minimalism, with an average sentence length of less than 15 words, and a textual style that achieves a great deal of complexity and simplicity, and a return to the realm of simplicity." But I would like to say that this book has the longest sentence of all the books I have read.
