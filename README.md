@@ -50,3 +50,6 @@
 | The Deed | 2023.8 | Game | rpgmaker制作，算解谜游戏，使用不同的武器，通过嫁祸给不同的人来解锁成就，不看攻略很难实现
 | OutCore | 2023.8 | Game | 包含了很多梗的游戏，全成就困难
 | The Old Man and the Sea | 2023.10.7 - 2023.10.10 | Novel | "Compared to previous works, The Old Man and the Sea goes even further down the path of minimalism, with an average sentence length of less than 15 words, and a textual style that achieves a great deal of complexity and simplicity, and a return to the realm of simplicity." But I would like to say that this book has the longest sentence of all the books I have read.
+| My Werid School(1-18) | 2023.10.11 - 2023.10.24 | Novel | Second grade children's story.Life is so werid and story don't really need some good mean. 
+| The Chronicles of NARNIA - The Magician's Nephew | 2023.10.25 - 2023.10 | Novel |  I can feel that this fairy tale is for teenagers, but not for kindergarten kids.
+
