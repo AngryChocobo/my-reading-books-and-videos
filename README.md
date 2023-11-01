@@ -52,5 +52,7 @@
 | The Old Man and the Sea | 2023.10.7 - 2023.10.10 | Novel | "Compared to previous works, The Old Man and the Sea goes even further down the path of minimalism, with an average sentence length of less than 15 words, and a textual style that achieves a great deal of complexity and simplicity, and a return to the realm of simplicity." But I would like to say that this book has the longest sentence of all the books I have read.
 | My Werid School(1-18) | 2023.10.11 - 2023.10.24 | Novel | Second grade children's story.Life is so werid and story don't really need some good mean. 
 | The Chronicles of NARNIA - The Magician's Nephew | 2023.10.25 - 2023.10.28 | Novel |  I can feel that this fairy tale is for teenagers, but not for kindergarten kids.Not bad.
-| The Chronicles of NARNIA - The Lone, The Witch and The Warddrob | 2023.10.29 - 2023.11 | Novel |  todo
+| The Chronicles of NARNIA - The Lone, The Witch and The Warddrob | 2023.10.29 - 2023.10.31 | Novel |  Oh my god.So the lion is Jesus am I right?
+| Harry Potter and the Sorcerer's Stone | 2023.11.1 | Novel | TODO
+
 
