@@ -54,5 +54,5 @@
 | The Chronicles of NARNIA - The Magician's Nephew | 2023.10.25 - 2023.10.28 | Novel |  I can feel that this fairy tale is for teenagers, but not for kindergarten kids.Not bad.
 | The Chronicles of NARNIA - The Lone, The Witch and The Warddrob | 2023.10.29 - 2023.10.31 | Novel |  Oh my god.So the lion is Jesus am I right?
 | Harry Potter and the Sorcerer's Stone | 2023.11.1 | Novel | TODO
-
+| The Chronicles of NARNIA - The Lone, The Witch and The Warddrob | 2023.11.04 - 2023.11.04 | Movie |  Just so so.
 
