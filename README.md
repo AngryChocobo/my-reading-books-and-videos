@@ -56,5 +56,6 @@
 | Harry Potter and the Sorcerer's Stone | 2023.11.1 | Novel | TODO
 | The Chronicles of NARNIA - The Lone, The Witch and The Warddrob | 2023.11.04 - 2023.11.04 | Movie |  Just so so.
 | Ethel & Ernest | 2023.11.09 - 2023.11.09 | Movie |  很感人的电影，朴实无华的日常生活配着时代变迁，描绘一个普通家庭的喜怒哀乐。令人感慨的是，伦敦一个送牛奶的工人都可以买得起房子和汽车。同时男女主的儿子脖子上挂的'车票'正和上一部电影纳尼亚传奇一模一样，都是英国和德国纳粹开战的时期，政府下令将儿童送到更安全的农村时期。
-
+| FRAMED COLLECTION | 2023.11.18 - 2023.11.18 | Game | 解谜游戏，让我想起了间谍过家家，结局有刀
+| CyberManhunt | 2023.11.18 - ? | Game | 解谜游戏，扮演黑客收集用户信息
 
