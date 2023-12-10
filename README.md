@@ -60,4 +60,4 @@
 | CyberManhunt | 2023.11.18 - 2023.11.26 | Game | 解谜游戏，扮演黑客收集用户信息，结果发现主角是AI,EMM，结合chatgpt时代，别有韵味
 | 12 Years a Slave | 2023.12.05 - 2023.12.06 | Movie | 身为自由人的黑人主角却被拐卖到南方做了12年的奴隶，最终获救的他是幸运的，但是也是一个时代的悲剧
 Demon Slayer | 2023.12.08 - 2023.12.09 | Anime | 相较于小黄，主角的性格成长其实并不明显
-Demon Slayer: Mugen Train | 2023.12.10 - 2023.12.10 | Anime Movie | 
+Demon Slayer: Mugen Train | 2023.12.10 - 2023.12.10 | Anime Movie | 舍己为人的强者，在如今社会越来越罕见了...做到常人做不到的事，值得尊敬
