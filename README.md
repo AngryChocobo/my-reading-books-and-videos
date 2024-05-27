@@ -65,3 +65,8 @@ Demon Slayer: Entertainment District Arc | 2023.12.11 - 2023.12.16 | Anime | 这
 Hatchet | 2023.12.1 -2023.12.17 | novel | 鲁滨逊少年版
 |Demon Slayer: Swordsmith Village Arc | 2023.12.16 - 2023.12.17 | Anime | 一口气看完，很有泪点
 |Inari | 2024.2.20 - 2024.2.22 | Game | 高清夏日狂想曲
+|Laughing to Die | 2024.4.19 - 2024.4.20 | Game | 国产恐怖游戏，剧情一般，不过题材比较沉重
+|South Park: The Stick of Truth | 2024.5 - 2024.5 | Game | 非常无节操且黄暴，我喜欢。以最简单的难度通关了，全成就比较折磨人，要全收集，并且很多场景一旦错过就没法回头
+|We were here forever | 2024.5 - 2024.5 | Game | 难度颇高的解谜游戏，部分关卡感觉过于刻意了
+|The Great Perhaps | 2024.5.24 - 2024.5.24 | Game | 不错的剧情游戏，解谜部分比较一般，开头的配音很棒
+|McGuffey Eclectic Readers(1-6) | 2024.5.25 | 
