@@ -70,3 +70,5 @@ Hatchet | 2023.12.1 -2023.12.17 | novel | 鲁滨逊少年版
 |We were here forever | 2024.5 - 2024.5 | Game | 难度颇高的解谜游戏，部分关卡感觉过于刻意了
 |The Great Perhaps | 2024.5.24 - 2024.5.24 | Game | 不错的剧情游戏，解谜部分比较一般，开头的配音很棒
 |McGuffey Eclectic Readers(1-6) | 2024.5.25 | 
+|Car Warrior | 2024.6.7 - 2024.6.7| Game | 国人出品的小型独立游戏
+|Rise of the Planet of the Apes | 2024.6.7 - 2024.6.7 | Movie | 猩球崛起的新篇章。凯撒死亡的后时代
