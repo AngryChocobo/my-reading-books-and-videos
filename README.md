@@ -72,4 +72,5 @@ Hatchet | 2023.12.1 -2023.12.17 | novel | 鲁滨逊少年版
 |McGuffey Eclectic Readers(1-6) | 2024.5.25 | 
 |Car Warrior | 2024.6.7 - 2024.6.7| Game | 国人出品的小型独立游戏
 |Rise of the Planet of the Apes | 2024.6.7 - 2024.6.7 | Movie | 猩球崛起的新篇章。凯撒死亡的后时代
-|The Last Campfire | 2024.6.9 - 2024.6| Game | 非常温馨可爱的解谜游戏
+|The Last Campfire | 2024.6.9 - 2024.6.15| Game | 非常温馨可爱的解谜游戏
+|The Past Within | 2024.6.15 - 2024.6.15 | Game | 双人解谜游戏，且只能双人游玩，特点是无需联机，双方汇报自己的线索合作通关，剧情很锈湖
