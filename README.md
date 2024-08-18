@@ -42,7 +42,7 @@
 | Coffee Talk | 2023.6.10 | Game | Good. I added Coffee Talk 2 into my wishlist.
 | Firewok | 2023.6.10 | Game | A horror game made by Chinese developer.It is very lucky for a unhappy little girl to have a kind teacher .It is very unlucky for a kind wife to have harsh parents in law after her husband died.
 | Pinocchio | 2023.6.14 - 6.19 | novel | A famous fairy tale for children.
-| Phoenix Wright | 2023.6.17 - ? | Game | 大名鼎鼎的逆转裁判. I used to play it on my 3ds.
+| Phoenix Wright | 2023.6.17 - 8.17 | Game | 大名鼎鼎的逆转裁判. I used to play it on my 3ds.
 | Secret Garden(精简版) | 2023.6.20 - 6.20 | novel | A short but very warm story.
 | Treasure of Nadia | 2023.7  -2023.8.6 | Game | 黄油，我愿称其为RPGMaker作品的天花板，剧情非常不错，建模优秀
 | A Plague Tale inocence | 2023.8.8 - 2023.8.9 | Game | 鼠王弟弟加他悲惨的姐姐，鼠群比较震撼
