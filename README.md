@@ -122,5 +122,7 @@ Hatchet | 2023.12.1 -2023.12.17 | novel | 鲁滨逊少年版
 |Corpse Party | 2025.1.5 - 2025.1.12 | Game | 恐怖2d游戏，音乐质量非常高
 |Danganronpa: Trigger Happy Havoc | 2025.1.19 - 2025.2.12 | Game | 知名侦探系列游戏，音乐质量中上，案件有点难猜，剧情反转较多
 |Sword and Fairy3 | 2025-1-29 - 2025-2-2 | Game | 正版补票，初中时候玩的，没有英文版
-|Danganronpa: Goodby Despair | 2025.2.13 - 2025.2.? | Game | 相较上作，人设辨识度更高
+|Danganronpa: Goodby Despair | 2025.2.13 - 2025.2.23 | Game | 相较上作，人设辨识度更高，这次开了日语配音，还不错哦
+|Detroit: Become Human | 2025.2.27 - ? | Game | 画面非常细致的游戏，剧情里机器人夺走了人类的工作，与最近AI带来的失业恐慌非常搭配
+|Tales of the Black Forest | 2025.3.1 - 2025.3.? | Game | 《烟火》制作组的作品，里边很多日语内容，我不理解为什么英文版还要加入很多日语内容...
 
